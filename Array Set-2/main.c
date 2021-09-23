@@ -18,6 +18,7 @@ int main()
 
     int Result=MissingElementInArray(arr);
     printf("%d",Result);
+    printf("%d",Result);
 
 }
 
